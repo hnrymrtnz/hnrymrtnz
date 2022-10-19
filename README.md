@@ -37,5 +37,12 @@
   🌟 Above all, I'm a quick learner, fueled by determination and the willingness to advance my career further.
 </p>
 
+<h2>
+  Honors
+</h2>
+
+<p>
+  <strong>Dean's List:</strong> Fall 2021, Spring 2022
+</p>
 
   
