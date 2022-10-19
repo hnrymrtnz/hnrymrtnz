@@ -8,7 +8,7 @@
 </P>
 
 <p align="center">
-  <strong>You can find me on:</strong>
+  <strong>Want to contact me? You can find me on:</strong>
 </p>
 
 <div align="center">
@@ -16,6 +16,13 @@
       <img alt="Henry Martinez Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+<p>
+  
+</p>
+<p align="center">
+  <strong>Or e-mail me at henry.martinez.713@my.csun.edu 📧</strong>
+</p>
 
 <h2>
   Skills
@@ -35,6 +42,14 @@
 
 <p>
   🌟 Above all, I'm a quick learner, fueled by determination and the willingness to advance my career further.
+</p>
+
+<h2>
+  Projects
+</h2>
+
+<p>
+  Coming soon! 😊
 </p>
 
 <h2>
