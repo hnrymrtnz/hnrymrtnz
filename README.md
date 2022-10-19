@@ -8,7 +8,14 @@
 </P>
 
 <p align="center">
-  You can find me on 
+  <strong>You can find me on:</strong>
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hnrymrtnz/" align="center">
+      <img alt="Henry Martinez Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 <h2>
   Skills
