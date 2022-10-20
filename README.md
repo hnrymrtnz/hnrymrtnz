@@ -16,8 +16,6 @@
       <img alt="Henry Martinez Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-<p>
   
 </p>
 <p align="center">
@@ -50,6 +48,10 @@
 
 <p>
   Coming soon! 😊
+</p>
+
+<p>
+  For now, here's a project I made for one of my classes that taught me about object-oriented programming: <a href="https://github.com/hnrymrtnz/classrooms">Classrooms</a>
 </p>
 
 <h2>
