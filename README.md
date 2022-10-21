@@ -47,11 +47,11 @@
 </h2>
 
 <p>
-  Coming soon! 😊
+  Billboard Birthday (my first project!!): <a href="https://github.com/hnrymrtnz/billboardbirthday">Billboard Birthday</a>
 </p>
 
 <p>
-  For now, here's a project I made for one of my classes that taught me about object-oriented programming: <a href="https://github.com/hnrymrtnz/classrooms">Classrooms</a>
+  Classrooms (in-class assignment): <a href="https://github.com/hnrymrtnz/classrooms">Classrooms</a>
 </p>
 
 <h2>
