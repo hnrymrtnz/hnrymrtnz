@@ -16,12 +16,16 @@
       <img alt="Henry Martinez Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-  
-</p>
+
+<p></p>
 <p align="center">
-  <strong>Or e-mail me at henry.martinez.713@my.csun.edu 📧</strong>
+  <strong>Or e-mail me at: <a href="mailto:henry.martinez.713@my.csun.edu">henry.martinez.713@my.csun.edu</a> 📧
+  </strong>
 </p>
 
+<p align="center">
+  <strong>Website: <a href="https://henrymartinez.me">henrymartinez.me</a></strong>
+</p>
 <h2>
   Skills
 </h2>
