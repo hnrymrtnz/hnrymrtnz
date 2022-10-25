@@ -55,6 +55,13 @@
 </p>
 
 <h2>
+  Usage
+</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnrymrtnz&layout=compact&theme=dracula)](https://github.com/hnrymrtnz/github-readme-stats)
+<p>*Credit to anuraghazra for creating this stats meter!!</p>
+
+<h2>
   Honors
 </h2>
 
