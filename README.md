@@ -55,6 +55,14 @@
 </p>
 
 <p>
+  NASA Great Lunar Expedition for Everyone (GLEE): <a href="https://www.glee2023.org/">GLEE</a>
+</p>
+
+<p>
+  Integer Conversion Encoding: <a href="https://github.com/smf-steve/integers-conversion-encoding">Integer Conversion Encoding</a>
+</p>
+
+<p>
   Classrooms (in-class assignment): <a href="https://github.com/hnrymrtnz/classrooms">Classrooms</a>
 </p>
 
