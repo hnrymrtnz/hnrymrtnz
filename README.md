@@ -51,7 +51,7 @@
 </h2>
 
 <p>
-  Billboard Birthday (my first project!!): <a href="https://github.com/hnrymrtnz/billboardbirthday">Billboard Birthday</a>
+  Web-scraping with Java Libraries: <a href="https://github.com/hnrymrtnz/billboardbirthday">Web-scraping</a>
 </p>
 
 <p>
