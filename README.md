@@ -63,7 +63,7 @@
 </p>
 
 <p>
-  Classrooms (in-class assignment): <a href="https://github.com/hnrymrtnz/classrooms">Classrooms</a>
+  OOP and Data Structure Projects: <a href="https://github.com/hnrymrtnz/classrooms">OOPandDS</a>
 </p>
 
 <h2>
