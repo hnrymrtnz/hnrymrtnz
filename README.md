@@ -31,7 +31,7 @@
 </h2>
 
 <p>
-  ⌨️ I'm most knowledgable in <strong>Java</strong>, however, I'm currently broadening my range of languages during my free time.
+  ⌨️ I'm knowledgeable in <b>Java, Python, HTML, CSS, Javascript, MIPS, and Swift</b>, becoming more curious in other languages as time goes on.
 </p>
 
 <p>
@@ -39,11 +39,11 @@
 </p>
 
 <p>
-  ☎️ I have extensive knowledge of all things <strong>Microsoft Office</Strong> (Word, Excel, Powerpoint, etc).
+  ☎️ I have extensive knowledge of all things <strong>Microsoft Office</Strong> (Word, Excel, Powerpoint, etc) and other software programs such as <b> Git, Github, Docker, and Bootstrap </b>.
 </p>
 
 <p>
-  🌟 Above all, I'm a quick learner, fueled by determination and the willingness to advance my career further.
+  🌟 Above all, I'm a quick learner, fueled by determination and the willingness to advance my career further. I'm open to gaining any sort of experience so please contact me with opportunities to learn!
 </p>
 
 <h2>
