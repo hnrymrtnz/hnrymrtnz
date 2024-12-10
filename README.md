@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  My name is Henry Martinez and I'm currently studying Computer Science at California State University, Northridge. My particular interests are in artificial intelligence and data science, however, I would love to pursue a career in software engineering. More than anything, I enjoy satiating my curiosity with each passing day and aspire to learn as much as I possibly can about all things related to computer science!
+  My name is Henry Martinez and I'm currently studying Computer Science at California State University, Northridge. My particular interests lie in cybersecurity and how we can help secure identities and privacy, particualrly for underpriviledged communities. In my free time I enjoy learning about various identity and access management topics like single sign-on, and enjoy pursuing certifications. 
 </P>
 
 <p align="center">
@@ -72,13 +72,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnrymrtnz&layout=compact&theme=dracula)](https://github.com/hnrymrtnz/github-readme-stats)
 <p>*Credit to anuraghazra for creating this stats meter!!</p>
-
-<h2>
-  Honors
-</h2>
-
-<p>
-  <strong>Dean's List:</strong> Fall 2021, Spring 2022
-</p>
 
   
