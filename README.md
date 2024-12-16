@@ -31,7 +31,7 @@
 </h2>
 
 <p>
-  ⌨️ I'm knowledgeable in <b>Java, Python, HTML, CSS, Javascript, MIPS, and Swift</b>, becoming more curious in other languages as time goes on.
+  ⌨️ I'm knowledgeable in <b>Python, Java, HTML, CSS, Javascript, SQL, and Bash</b>, becoming more curious in other languages as time goes on.
 </p>
 
 <p>
@@ -39,7 +39,7 @@
 </p>
 
 <p>
-  ☎️ I have extensive knowledge of all things <strong>Microsoft Office</Strong> (Word, Excel, Powerpoint, etc) and other software programs such as <b> Git, Github, Docker, and Bootstrap </b>.
+  ☎️ I have extensive knowledge in IAM software like ADFS, Amazon Cognito, MS Entra ID, RH IDM, and Oracle Access Manager. I am also capable of utilizing tools such as Docker, GitHub, Jira, LDAP, Postman, and VSCode.
 </p>
 
 <p>
@@ -49,6 +49,10 @@
 <h2>
   Projects
 </h2>
+
+<p>
+  Authflow: <a href="https://github.com/hnrymrtnz/authflow">Authflow Project</a>
+</p>
 
 <p>
   Web-scraping with Java Libraries: <a href="https://github.com/hnrymrtnz/billboardbirthday">Web-scraping</a>
